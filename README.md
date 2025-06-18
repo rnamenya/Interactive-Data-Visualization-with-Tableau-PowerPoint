@@ -1,5 +1,7 @@
 # Interactive-Data-Visualization-with-Tableau-PowerPoint
 
+Presentation and work by Rosemary Namenya
+
 📊 Interactive Data Visualization with Tableau & PowerPoint
 This project showcases the development of visually engaging, interactive dashboards using Tableau and PowerPoint to communicate business insights effectively. The goal was to enable data-driven decision-making by presenting complex datasets in a simple, intuitive format.
 
